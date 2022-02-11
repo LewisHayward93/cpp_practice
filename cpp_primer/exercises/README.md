@@ -1,0 +1,7 @@
+# Skipped Exercises
+
+Some exercises have been skipped due to being theoretical in practice or requiring a fix to make it work. All commentary on such exercises can be seen below:
+
+- Exercise 1.1: not relevant
+- Exercise 1.2: not relevant
+- Exercise 1.6: std::endl; required at the end of each ostream to flush the buffer and end the line properly
