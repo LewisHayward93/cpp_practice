@@ -1,5 +1,5 @@
 #include <iostream>
-/* simple program with while statement example */
+/* simple program with while loop example */
 int main() {
   int sum = 0, val = 1;
   while (val <= 10) {
