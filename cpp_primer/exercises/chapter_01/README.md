@@ -2,13 +2,11 @@
 
 Input txt files can be added to speed up programs using the following command:
 
-#+begin_src shell
+```shell
 ./ans <input.txt >output.txt
-#+end_src
-
+```
 
 Some exercises have been skipped due to being theoretical in practice or requiring a fix to make it work. All commentary on such exercises can be seen below:
-
 
 - Exercise 1.1: not relevant
 - Exercise 1.2: not relevant

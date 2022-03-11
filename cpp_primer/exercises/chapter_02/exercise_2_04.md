@@ -1,6 +1,6 @@
-#+TITLE: Exercise_2_04
+# Exercise_2_04
 
-#+begin_src cpp
+```cpp
 #include <iostream>
 int main() {
     unsigned u = 10, u2 = 42;
@@ -13,12 +13,4 @@ int main() {
     std::cout << u- i << std::endl; // predict 0
     return 0;
 }
-#+end_src
-
-#+RESULTS:
-|         32 |
-| 4294967264 |
-|         32 |
-|        -32 |
-|          0 |
-|          0 |
+```
