@@ -2,7 +2,8 @@
 /* simple program to print numbers inclusive of range;
  * uses istream
  */
-int main(void) {
+int main(void)
+{
   int v1 = 0, v2 = 0;
   std::cout << "Choose two numbers to print range of: " << std::endl;
   std::cin >> v1 >> v2;

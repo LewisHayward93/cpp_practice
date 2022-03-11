@@ -2,7 +2,8 @@
 /* simple program to sum inputs;
  * unknown number of unputs
  */
-int main(void) {
+int main(void)
+{
   int sum = 0, value = 0;
   // will continue reading until hits EOF (ctrl-D on unix)
   while (std::cin >> value)

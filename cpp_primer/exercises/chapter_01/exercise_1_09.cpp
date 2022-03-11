@@ -2,9 +2,11 @@
 /* simple program to sum 50-100;
  * using while loop
  */
-int main() {
+int main()
+{
   int sum = 0, val = 50;
-  while (val <= 100) {
+  while (val <= 100)
+  {
     sum += val;
     ++val;
   }

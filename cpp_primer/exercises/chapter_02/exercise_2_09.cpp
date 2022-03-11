@@ -1,6 +1,7 @@
 #include <iostream>
 
-int main() {
+int main()
+{
   // (a)
   // std::cin >> int input_value;  // Error: variable must be defined before
   // using for input

@@ -1,8 +1,10 @@
 #include <iostream>
 /* simple program with while loop example */
-int main() {
+int main()
+{
   int sum = 0, val = 1;
-  while (val <= 10) {
+  while (val <= 10)
+  {
     sum += val;
     ++val;
   }

@@ -1,7 +1,8 @@
 #include <iostream>
 /* print 2M followed by new line;
  * print 2 then tab then M then newline */
-int main(void) {
+int main(void)
+{
   std::cout << ">"
             << "2M\n"
             << "<" << std::endl;

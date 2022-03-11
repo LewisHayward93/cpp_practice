@@ -1,6 +1,7 @@
 #include <iostream>
 /* simple program with for loop example */
-int main(void) {
+int main(void)
+{
   int sum = 0;
   // sum values from 1 through 10 inclusive
   // val variable is now only accessible within the for loop
