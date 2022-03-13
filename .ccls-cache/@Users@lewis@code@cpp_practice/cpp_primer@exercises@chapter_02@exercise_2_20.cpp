@@ -1,7 +1,6 @@
 #include <iostream>
 
-int main(void)
-{
+int main(void) {
   int i = 42;      // creates int i value 42
   int *p1 = &i;    // creates int pointer with i
   *p1 = *p1 * *p1; // changes value of i by dereferencing *pi and squaring
