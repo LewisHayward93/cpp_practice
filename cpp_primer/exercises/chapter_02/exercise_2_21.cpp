@@ -1,7 +1,8 @@
 #include <iostream>
-/* simple program to change value of a pointer;
-write code to change the value to which the pointer points
-*/
-int main(void)
-{
+
+int main(void) {
+  int i = 0;
+  double *dp = &i; // illegal as different type
+  int *ip = i;     // illegal needs to point to reference
+  int *p = &i;     // legal
 }
