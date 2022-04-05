@@ -1,4 +1,4 @@
-const std::string s = "Keep Out!;
+const std::string s = "Keep Out!";
 for (auto &c : s) { /\* \*/ }
 
 Legal: auto-deduced type. The auto specifier will deduce the type const char &
